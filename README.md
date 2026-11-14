@@ -99,5 +99,3 @@ Se evaluaron SMS históricos en inglés; no se comprobó el desempeño en españ
 - [Kaggle: uciml/sms-spam-collection-dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset).
 - [Keras: clasificación de texto desde cero con Conv1D](https://keras.io/examples/nlp/text_classification_from_scratch/).
 - Diapositivas compartidas: *Diagnosing Deep Neural Networks*, *Convolutional Neural Networks* y *Fully Connected Neural Networks*.
-
-Para publicar, seguir `COMO_SUBIR_A_GITHUB.md`. La creación y vinculación del repositorio quedan pendientes del enlace que proporcionará la autora.
