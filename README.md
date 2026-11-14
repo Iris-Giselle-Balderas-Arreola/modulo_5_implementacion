@@ -18,7 +18,6 @@ Se implementó una red convolucional para clasificar mensajes SMS en inglés com
 | `datos/FUENTE.md` | Fuente, atribución y licencia del dataset |
 | `resultados/` | Métricas, curvas, particiones y predicciones de prueba |
 | `requirements.txt` | Dependencias para ejecutar el proyecto |
-| `COMO_SUBIR_A_GITHUB.md` | Comandos para subir los archivos |
 
 ## Datos y separación
 
