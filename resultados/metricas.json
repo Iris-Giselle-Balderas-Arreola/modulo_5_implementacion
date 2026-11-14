@@ -1,0 +1,35 @@
+{
+  "modelo_elegido": "ajustado",
+  "semilla": 42,
+  "umbral": 0.5,
+  "prueba": {
+    "accuracy": 0.9818181818181818,
+    "precision_spam": 0.9550561797752809,
+    "recall_spam": 0.8947368421052632,
+    "f1_spam": 0.9239130434782609,
+    "average_precision": 0.9557471095908436
+  },
+  "validacion": {
+    "inicial": {
+      "accuracy": 0.9700910273081924,
+      "precision_spam": 0.9285714285714286,
+      "recall_spam": 0.8210526315789474,
+      "f1_spam": 0.8715083798882681,
+      "average_precision": 0.9316369544088454
+    },
+    "ajustado": {
+      "accuracy": 0.9752925877763329,
+      "precision_spam": 0.9418604651162791,
+      "recall_spam": 0.8526315789473684,
+      "f1_spam": 0.8950276243093923,
+      "average_precision": 0.9602057098757811
+    }
+  },
+  "filas": {
+    "originales": 5572,
+    "utilizadas": 5129,
+    "entrenamiento": 3590,
+    "validacion": 769,
+    "prueba": 770
+  }
+}
